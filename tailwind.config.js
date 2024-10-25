@@ -6,6 +6,10 @@ export default {
       colors: {
         'very-dark-gray': 'hsl(0, 0%, 17%)',
         'dark-gray': 'hsl(0, 0%, 59%)'
+      },
+      backgroundImage: {
+        'mobile-pattern': "url('./src/assets/images/pattern-bg-mobile.png')",
+        'desktop-pattern': "url('./src/assets/images/pattern-bg-desktop.png')"
       }
     }
   },
