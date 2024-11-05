@@ -17,7 +17,7 @@ export default function Info() {
   } = info
 
   return (
-    <div className='absolute bottom-0 z-30 flex h-max w-[80%] translate-x-[calc(50vw-50%)] translate-y-[50%] flex-col items-center justify-center gap-2 rounded-xl bg-white px-2 text-center shadow-md md:min-h-[175px] md:flex-row md:gap-0'>
+    <div className='absolute bottom-0 z-30 flex h-max w-[80%] translate-x-[calc(50vw-50%)] translate-y-[50%] flex-col items-center justify-center gap-2 rounded-xl bg-white px-2 py-2 text-center shadow-md md:min-h-[175px] md:flex-row md:gap-0'>
       <div className='md:w-1/4 md:border-r'>
         <h2 className='text-xs font-semibold text-gray-500 md:text-sm'>
           DIRECCION IP
