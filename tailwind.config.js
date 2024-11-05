@@ -8,8 +8,8 @@ export default {
         'dark-gray': 'hsl(0, 0%, 59%)'
       },
       backgroundImage: {
-        'mobile-pattern': "url('./src/assets/images/pattern-bg-mobile.png')",
-        'desktop-pattern': "url('./src/assets/images/pattern-bg-desktop.png')"
+        'mobile-pattern': "url('./assets/images/pattern-bg-mobile.png')",
+        'desktop-pattern': "url('./assets/images/pattern-bg-desktop.png')"
       }
     }
   },
